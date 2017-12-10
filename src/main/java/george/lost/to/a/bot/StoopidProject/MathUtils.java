@@ -2,7 +2,7 @@ package george.lost.to.a.bot.StoopidProject;
 
 /**
  * Utility class for basic math operations.
- * @author FooBar
+ * @author radian3
  */
 public class MathUtils {
 
