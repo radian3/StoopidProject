@@ -6,7 +6,7 @@ import org.junit.Test;
 /*
  * Tests the <code>MathUtils</code> class.
  */
-public class addNumsTest {
+public class MathUtilsTest {
 
   @Test
   public void testAddNumsSuccess() {
