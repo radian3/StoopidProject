@@ -7,7 +7,7 @@ We use JIRA to keep track of which task each person is working on. This way, we 
 GitHub
 Our project can be found at https://github.com/radian3/StoopidProject
 
-Software Development Process
+# Software Development Process
 1) Iteration planning. Plan out multiple coding tasks to be done within the iteration (3 weeks).
 2) Decidewh on o will do each task.
 3) Log JIRAS for each task and assign the JIRAS to whoever is going to do the JIRA.
@@ -42,8 +42,9 @@ Software Development Process
 11) Start working on your next task.
 
 # Project Setup
-Download Java 7 at http://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html
-Download Maven https://maven.apache.org/download.cgi
+Download Java 8 at http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Download Maven https://www.mkyong.com/maven/how-to-install-maven-in-windows/
+
 Download Eclipse http://www.eclipse.org/downloads/
 
 Open the command line
