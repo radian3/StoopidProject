@@ -3,7 +3,7 @@ Our JIRA can be found here: https://georgelosttoabot.atlassian.net/browse/SP-3
 We use JIRA to keep track of which task each person is working on. This way, we can easily see who is working on which task at any time. You can log a task JIRA on the epic to say which task you are working on. Within a task JIRA, you can log subtasks. No coding task should take longer than 8 hours of coding. If you predict a task will take longer than 8 hours of coding, then you should break down the task into multiple subtasks. Your GitHub branch is named after your subtask coding JIRa. If you don't need a subtask JIRA, then you can name your GitHub branch after the task jira.
 
 # Software Development Process
-1) Brainstorm a task to work on.
+1) Spend 30 minutes - 1 hour brainstorming tasks to work on.
 2) Log JIRAS for each task that you came up with and assign the JIRAS to yourself.
 3) Place the JIRA you are about to start working on as 'In Progress.'
 4) Create your GitHub branch by branching off of master. Name this branch after your JIRA name.
