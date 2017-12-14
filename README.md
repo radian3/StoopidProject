@@ -12,7 +12,7 @@ We use JIRA to keep track of which task each person is working on. This way, we 
 7) Go to GitHub and post a pull request from your branch to master.
    -link your JIRA on the pull request
    -make sure your JIRA is documented to include what you did in your task  
-8) Teammates should look at the files changed sectino of the pull request and make comments on how to improve the code and fix potential bugs. This is your chance to review the code of your teammates and provide feedback. After this, the teammates should check out the pull request branch and pull down the code and test the application. They should run a mvn clean install and try using the application to make sure it works.
+8) Teammates should look at the files changed section of the pull request and make comments on how to improve the code and fix potential bugs. This is your chance to review the code of your teammates and provide feedback. After this, the teammates should check out the pull request branch and pull down the code and test the application. They should run a mvn clean install and try using the application to make sure it works.
 9) After all teammates approve of the pull request, you can press the green button to merge the code from your development branch to master.
 10) Delete your branch and close your JIRA.
 11) Start working on your next task.
