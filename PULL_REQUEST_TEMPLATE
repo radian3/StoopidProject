@@ -1,0 +1,7 @@
+- [ ] mvn clean install is successful
+- [ ] Code is documented
+- [ ] Code has unit tests
+- [ ] Pull Request is titled after the JIRA number and name
+- [ ] Branch is able to automatically be merged into master
+
+Description of task:
