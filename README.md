@@ -5,7 +5,7 @@ We use JIRA to keep track of which task each person is working on. This way, we 
 # Software Development Process
 1) Spend 30 minutes - 1 hour brainstorming tasks to work on.
 2) Log JIRAS for each task that you came up with and assign the JIRAS to yourself.
-3) Place the JIRA you are about to start working on as 'In Progress.'
+3) Place the JIRA you are about to start working on as 'In Progress.' 
 4) Create your GitHub branch by branching off of master. Name this branch after your JIRA name.
 5) Code on your branch until you feel that your coding is complete. Make sure you have tested it and everything works.
 6) Pull down the latest code from master into your local master branch. Merge the code from your local master into your development branch if your branch doesn't already have the latest master code. Resolve merge conflicts if there are any.
